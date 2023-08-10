@@ -1,22 +1,34 @@
 # 2-PROIECT-PRACTIC-TESTARE-MANUALA
 
-Revision History
-Date	Description	Author	Comments
-05.05.2023	Test Plan for version 	Matei Oltean	
-07.07.2023	Test Plan for version 1.0	Adelina Pop	Added more details for Test Implementation
+# Revision History
 
-1.	Introduction
-1.1	Project objective
-1.2	Functionalities in scope
-1.3	Functionalities and tests out of scope
-2.	Test process
-2.1	Test planning
-2.2	Test analysis
-2.3	Test design
-2.4	Test implementation
-2.5	Test execution
-2.6	Test closure
-2.7	Test monitoring and control
+|Date|Description|Author|Comments|
+|05.05.2023|Test Plan for version0.55|Matei Oltean||	
+|07.07.2023|Test Plan for version 1.0|Adelina Pop|Added more details for Test Implementation|
+
+## 1.	Introduction
+
+        1.1	Project objective
+ 
+        1.2	Functionalities in scope
+
+        1.3	Functionalities and tests out of scope
+        
+## 2.	Test process
+
+        2.1	Test planning
+        
+        2.2	Test analysis
+        
+        2.3	Test design
+        
+        2.4	Test implementation
+        
+        2.5	Test execution
+        
+        2.6	Test closure
+       
+        2.7	Test monitoring and control
 3.	Test deliverables
 3.1	Test plan
 3.2	Test conditions
